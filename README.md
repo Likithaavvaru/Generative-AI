@@ -1,9 +1,9 @@
 # Generative-AI
 
 # Requirements
-.Python
+Python
 
-.cohere Python package
+cohere Python package
 
 Install the Cohere library
 

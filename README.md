@@ -16,7 +16,7 @@ Generate Text: The script uses the Cohere generate method to create text based o
 
 prompt: The text input for which the model generates a response (e.g., "Write something about Beaches").
 
-max_tokens: The maximum number of tokens (words or word pieces) in the generated text (set to 300 in this example).
+max_tokens: The maximum number of tokens (words or word pieces) in the generated text (set to 200 in this example).
 
 temperature: Controls the randomness of the output. A value of 0.5 balances creativity and coherence.
 

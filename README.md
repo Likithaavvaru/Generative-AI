@@ -2,6 +2,7 @@
 
 # Requirements
 .Python
+
 .cohere Python package
 
 Install the Cohere library

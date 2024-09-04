@@ -3,7 +3,9 @@
 # Requirements
 .Python
 .cohere Python package
+
 Install the Cohere library
+
 Obtain an API Key by Sign up at Cohere and get your API key.
 
 # Usage
